@@ -9,4 +9,6 @@
 - 📫 How to reach me: at laleniaz@yahoo.gr or at my Linkedin account.
 - 📈 You can find my projects from Spiced Academy here.
 - 💻 For other projects related to my internship as a Backend-Developer, feel free to ask me.
+
+
 -->
